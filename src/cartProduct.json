@@ -1,0 +1,87 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "iPhone 9",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+            "images": [
+                "https://netrinoimages.s3.eu-west-2.amazonaws.com/2017/05/28/453344/208023/apple_iphone_9_all_colors_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_2192882.jpg",
+                "https://d57avc95tvxyg.cloudfront.net/images/thumbnails/950/950/detailed/2449/full_body_housing_for_apple_iphone_9_white_maxbhi.com_41205.jpg?t=1700812354",
+                "https://netrinoimages.s3.eu-west-2.amazonaws.com/2017/05/28/453344/208023/apple_iphone_9_all_colors_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_2192882.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "iPhone X",
+            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+            "price": 899,
+            "discountPercentage": 17.94,
+            "rating": 4.44,
+            "stock": 34,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+            "images": [
+                "https://images-cdn.ubuy.co.in/65414af8fd4858736a695a7e-pre-owned-apple-iphone-x-256gb-factory.jpg",
+                "https://images-cdn.ubuy.co.in/65b4e9fce6392731aa7814d3-pre-owned-apple-iphone-x-64gb-factory.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/4/43/IPhone_X%2C_back_and_front%2C_Silver.png"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Samsung Universe 9",
+            "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+            "price": 1249,
+            "discountPercentage": 15.46,
+            "rating": 4.09,
+            "stock": 36,
+            "brand": "Samsung",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+            "images": [
+                "https://www.layers.shop/cdn/shop/products/samsung-galaxy-note-9-universe--back.jpg?v=1686051738"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "OPPOF19",
+            "description": "OPPO F19 is officially announced on April 2021.",
+            "price": 280,
+            "discountPercentage": 17.91,
+            "rating": 4.3,
+            "stock": 123,
+            "brand": "OPPO",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+            "images": [
+                "https://m.media-amazon.com/images/I/61Gf1OIORhS.jpg",
+                "https://darlingretail.com/cdn/shop/products/TeHuJiTT1qwTCgAl.jpg?v=1663914851",
+                "https://m.media-amazon.com/images/I/61Gf1OIORhS.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Huawei P30",
+            "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+            "price": 499,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 3,
+            "brand": "Huawei",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+            "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHGVAlmVUxGojDUeDBGZUO2BL82Rywj3JLl3FZe4EpWg&s",
+                "https://images-cdn.ubuy.co.in/633ff647ed8e2e306c7cdcdd-huawei-p30-pro-128gb-8gb-ram-vog-l29.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHGVAlmVUxGojDUeDBGZUO2BL82Rywj3JLl3FZe4EpWg&s"
+            ]
+        }
+    ]
+}

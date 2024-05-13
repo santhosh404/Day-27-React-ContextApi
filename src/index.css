@@ -7,7 +7,7 @@
 
 * {
     font-family: "Poppins", sans-serif;
-    font-size: 14px !important;
+    font-size: 14px ;
 }
 
 
@@ -30,13 +30,26 @@
 }
 
 .productCard {
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px !important;
+    /* box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px !important; */
     border-radius: 20px !important;
 }
 
 .subTotalCard {
     padding: 10px;
-    border: 1px solid lightgray !important;
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px !important;
-    border-radius: 20px !important;
+    /* border: 1px solid lightgray !important;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px !important; */
+    /* border-radius: 20px !important; */
+    position: sticky !important;
+    bottom: 0px;
+    z-index: 10;
+}
+
+.icon-font {
+    font-size: 30px !important;
+}
+
+@media (min-width: 768px) {
+    .removeBtn {
+        width: 100% !important;
+    }
 }
